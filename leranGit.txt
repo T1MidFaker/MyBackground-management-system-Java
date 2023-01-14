@@ -1,0 +1,12 @@
+git tag 添加标签
+git push origin master  推送到远程仓库
+git remote -v
+git --version
+git rm
+git log
+git reset --hard HEAD^^
+git reset --hard 
+git mv
+git checkout 
+git branch -d xx
+git branch -a 
